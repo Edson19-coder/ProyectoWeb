@@ -1,0 +1,79 @@
+a:link {
+    color: #323232;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #323232;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+/* Footer*/
+
+/*@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');*/
+section {
+    padding: 10px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #323232;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background:#323232 !important;
+}
+#footer h5{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+}
+
+
+
+
+/* RedesSociales*/
+.fa {
+    padding: 10px !important;
+    font-size: 20px !important;
+    width: 70px !important;
+    height: auto !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    margin: 5px 2px !important;
+  }
+  
+  .fa:hover {
+      opacity: 0.7 !important;
+  }
+  
+  .fa-facebook {
+    background: #3B5998 !important;
+    color: white !important;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE !important;
+    color: white !important;
+  }
+  
+  .fa-instagram {
+    background: #125688 !important;
+    color: white !important;
+  }
+  

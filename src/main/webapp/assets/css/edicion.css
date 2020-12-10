@@ -1,0 +1,107 @@
+#nombre{
+    padding-left: 2%;
+}
+
+.image-cropper {
+    width:  150px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -25%; 
+  height: 100%;
+  width: auto;
+}
+a:link {
+    color: #323232;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #323232;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+/* Footer*/
+
+section {
+    padding: 10px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #323232;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background:#323232 !important;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+#footer h5{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+}
+
+/* RedesSociales*/
+.fa {
+    padding: 10px !important;
+    font-size: 20px !important;
+    width: 70px !important;
+    height: auto !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    margin: 5px 2px !important;
+  }
+  
+  .fa:hover {
+      opacity: 0.7 !important;
+  }
+  
+  .fa-facebook {
+    background: #3B5998 !important;
+    color: white !important;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE !important;
+    color: white !important;
+  }
+  
+  .fa-instagram {
+    background: #125688 !important;
+    color: white !important;
+  }
+  
+/* NoticiaFav*/
+#imagenoticia{
+    padding-left: 30px;
+    height: 200px; 
+    width: auto;
+
+}
+#noticiafav{
+    background-color: darkcyan;
+}

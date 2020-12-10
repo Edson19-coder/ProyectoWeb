@@ -1,0 +1,81 @@
+
+/*navbar*/
+.navbar navbar-expand-lg navbar-light{
+    background-color:red;
+}
+
+nav.about{
+    background-color:  #ecfdf9;
+}
+
+nav.about h1
+{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    
+    background-color:  #007b5e;    
+}
+
+nav.about h2
+{
+    font-size: 25px;
+    color: rgb(66, 65, 65);
+    
+}
+
+nav.about h3{
+    color: rgb(66, 65, 65);
+    font-size: 18px ;
+}
+
+nav.about p
+{
+    padding-left: 12%;
+    padding-right: 12%;
+    font-size: 15px;
+}
+
+nav.about p.WV
+{
+    color: rgb(66, 65, 65);
+    margin: 25px;
+    font-size: 30px;
+}
+/* Carousel*/
+.carousel-item{
+    height: 500px;
+}
+#aCarrusel{
+    text-decoration: none;
+    color: whitesmoke
+}
+/* Footer*/
+
+/*@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');*/
+section {
+    padding: 10px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #323232;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background:#323232 !important;
+}
+#footer h5{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+}
+
+
